@@ -1,0 +1,38 @@
+@import "../../skin/skin.wxss";
+@import "../../../../style/project/my_index_base.wxss";
+
+page {
+	background-color: #F6F7FF;
+}
+
+.main .upside,
+.main .upside>image {
+	height: 450rpx;
+}
+
+.main .upside {
+	padding-top: 10rpx;
+}
+
+/*投影*/
+.main .upside-shadow {
+	box-shadow: unset
+}
+
+.main .upside .user-bar .detail .desc {
+	color: #fff;
+}
+
+.main .down {
+	margin-top: -150rpx;
+	z-index: 9999;
+}
+
+.main .down .today .title {
+	color: #333;
+}
+
+.today-card .today {
+	position: relative;
+	background-color: rgba(255, 255, 255, .8) !important;
+}

@@ -1,0 +1,10 @@
+@import "../../../../style/project/base/appt.wxss";
+@import "../../skin/skin.wxss"; 
+@import "../../../../style/project/meet_index_base.wxss";
+page {
+	background-color: #fae3ef;
+}
+
+.load-project {
+	color: var(--projectColor) !important;
+}
