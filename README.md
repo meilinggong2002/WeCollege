@@ -2,7 +2,7 @@
     
 美容机构预约小程序, 功能包括门店动态，美容小贴士，美容师预约，美容项目预约，采用腾讯提供的小程序云开发解决方案，无须服务器和域名
 
- ![输入图片说明](demo/A05%E7%BE%8E%E5%AE%B9.png)
+![image](https://user-images.githubusercontent.com/100195718/155105214-b018658d-2dca-4724-9ca3-37189a1570ba.png)
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。
@@ -15,10 +15,10 @@
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
 - 俺的微信:
 
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+![image](https://user-images.githubusercontent.com/100195718/155105241-4b8b413b-19e2-43cd-a76a-cd9c3a03af80.png)
 
 ## 演示
-  ![输入图片说明](demo/A05%E7%BE%8E%E5%AE%B9.png)
+![image](https://user-images.githubusercontent.com/100195718/155105257-a1f87128-1c6c-4a98-9b29-403b70206c01.png)
 
 
 ## 安装
@@ -27,23 +27,29 @@
 
 
 ## 截图
-![输入图片说明](demo/a246578058459378afd1e0bcc8b3561.png)
-![输入图片说明](demo/9cd5994dd227300cd88431f22838ff6.png)
-![输入图片说明](demo/e4df2ed5c28b80c739a5fed38059a53.png)
+ 
+![image](https://user-images.githubusercontent.com/100195718/155105319-722624f8-3723-4993-9ee5-ca4fc469c938.png)
+![image](https://user-images.githubusercontent.com/100195718/155105330-969734bf-91b4-4f58-abf7-260e09934386.png)
+![image](https://user-images.githubusercontent.com/100195718/155105335-b4cdb038-295f-4e25-aeb8-c48cf1af153d.png)
+![image](https://user-images.githubusercontent.com/100195718/155105344-8703ef86-f8f3-41ae-ae5c-f5217e8aa01b.png)
 
-![输入图片说明](demo/64ae74f0639d9b00fca1648a8071470.png)
-![输入图片说明](demo/8ccafd26e1083c40be5b7df26c54f10.png)
-![输入图片说明](demo/6f1a4a38051d4cc3c6b6189dd7360dc.png)
+![image](https://user-images.githubusercontent.com/100195718/155105354-95352b92-9baf-4e1f-a89b-c209a99aeba0.png)
+![image](https://user-images.githubusercontent.com/100195718/155105370-99f2d8c2-6387-4f40-9d5c-999cab590c75.png)
+![image](https://user-images.githubusercontent.com/100195718/155105383-d022dcaa-b43d-4f40-be81-0a9215fbe0be.png)
+![image](https://user-images.githubusercontent.com/100195718/155105393-c352ed99-2707-4e35-a64a-ff59ecc4b65e.png)
+![image](https://user-images.githubusercontent.com/100195718/155105409-0153cd65-7d4d-445d-8415-771d100585fa.png)
+![image](https://user-images.githubusercontent.com/100195718/155105423-d55895e5-997d-46a8-81aa-1011dbcf1b4a.png)
+![image](https://user-images.githubusercontent.com/100195718/155105433-30d5b6f8-ee6a-41d9-9a61-313ab1400dbd.png)
+![image](https://user-images.githubusercontent.com/100195718/155105441-04f77c10-9dc8-4719-8302-e2a294f8b11f.png)
+![image](https://user-images.githubusercontent.com/100195718/155105449-0d224d5d-13a7-4750-94b3-8951ba2285a8.png)
+![image](https://user-images.githubusercontent.com/100195718/155105464-f3f52d20-1b38-4ed0-8139-c03fc3a85b07.png)
 
-![输入图片说明](demo/883d07f212c8a04863973c32f1dce87.png)
-![输入图片说明](demo/8b6e4ea4229ab3fff50d1962cb7e134.png)
 
-![输入图片说明](demo/cbdb058f7ce285ccac43e2bc4855bee.png)
-![输入图片说明](demo/64a7bc7953ec8fa7d224cce6e174662.png)
-![输入图片说明](demo/5357ee108cc1c5850a9788dbe796385.png)
-![输入图片说明](demo/b9c57087b560a7da49c93920571af13.png)
-![输入图片说明](demo/cb1eb9f32b5abbe49831ca0f0d80a7e.png)
-![输入图片说明](demo/697f3f91276df95010dad501229ff92.png)
-![输入图片说明](demo/8571cca72e289bc87a3ba2b466bbaa8.png)
-![输入图片说明](demo/d8382e9a0eef8d4b7017b8168b5b180.png)
+![image](https://user-images.githubusercontent.com/100195718/155105476-da7f0f62-0e0c-4796-a1af-d46d6322b788.png)
+
+
+
+
+
+
 
