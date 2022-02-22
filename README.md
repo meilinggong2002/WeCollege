@@ -11,6 +11,17 @@
 - 云开发技术采用腾讯内部链路，没有被黑客攻击的风险，安全性高且免维护。
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
+## 作者
+- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
+- 俺的微信:
+
+![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+
+## 演示
+  ![输入图片说明](demo/A05%E7%BE%8E%E5%AE%B9.png)
+
+- 安装手册见源码包里的word文档
+
 ## 截图
 ![输入图片说明](demo/a246578058459378afd1e0bcc8b3561.png)
 ![输入图片说明](demo/9cd5994dd227300cd88431f22838ff6.png)
@@ -32,13 +43,3 @@
 ![输入图片说明](demo/8571cca72e289bc87a3ba2b466bbaa8.png)
 ![输入图片说明](demo/d8382e9a0eef8d4b7017b8168b5b180.png)
 
-## 作者
-- 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
-- 俺的微信:
-
-![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
-
-## 演示
-  ![输入图片说明](demo/A05%E7%BE%8E%E5%AE%B9.png)
-
-- 安装手册见源码包里的word文档
