@@ -11,7 +11,7 @@ class BaseModel extends Model {
 		if (global.PID)
 			return global.PID;
 		else
-			return 'ONE';
+			return 'ONE'  ;
 	}
 
 	static _getWhere(where, mustPID = true) { 
