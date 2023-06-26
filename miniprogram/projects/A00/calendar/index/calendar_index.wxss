@@ -1,5 +1,0 @@
-@import "../../skin/skin.wxss"; 
-@import "../../../../style/project/calendar_index_base.wxss";
-page {
-	background-color: #F6F7FF;
-}
