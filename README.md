@@ -26,12 +26,14 @@
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
  
-![image](https://github.com/meilinggong2002/WeCollege/assets/100195718/9cddc72e-640d-44ba-9ac4-5a2e95733e49)
+ ![image](https://github.com/meilinggong2002/WeCollege/assets/100195718/d8e272b3-71b0-48b8-8083-3c571a13e858)
+
 
 
 
 ## 演示 
- ![image](https://github.com/meilinggong2002/WeCollege/assets/100195718/5942b049-2905-4f03-b3be-a7f55f18c07d)
+ ![image](https://github.com/meilinggong2002/WeCollege/assets/100195718/64b0185d-d5c7-421d-a270-6ad0e7b777f8)
+
 
 
 ## 安装
